@@ -51,7 +51,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 <body>
     <header>
-        <?php include_once './display/header.html'; ?>
+        <?php include_once './display/header.php'; ?>
     </header>
 
     <main>

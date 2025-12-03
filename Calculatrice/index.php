@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="Calculatrice PHP" content="Calculatrice">
-    <link rel="stylesheet" href="./style-calculatrice.css">
+    <link rel="stylesheet" href="./style/style.css">
 </head>
 
 <body>
@@ -22,7 +22,7 @@
             <div class="nombres">
                 <button>1</button>
                 <button>2</button>
-                <button> <?php echo 3?> 3</button>
+                <button>3</button>
                 <br>
                 <button>4</button>
                 <button>5</button>
